@@ -2,7 +2,7 @@
 
 <h3>Github Profili </h3>
 
-<p>Git profili genelöolarak neler barındır.İçerisinde neler var genel olarak onları inceleyip birebir yapmaya çalıştık.</p>
+<p>Git profili genel olarak neler barındırır .İçerisinde neler var genel olarak onları inceleyip birebir yapmaya çalıştık.</p>
 
 <h3>Kullanılan Yapılar</h3>
 
